@@ -1,9 +1,8 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 body {
   font-family: Comic Sans MS, Comic Sans, cursive;
   font-size: 25px;
   color: #CC3300;
 }
+@import "{{ site.theme }}";
