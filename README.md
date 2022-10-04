@@ -2,7 +2,7 @@
 > By: Aleeza Adnan
 > A website with information on the history, purpose, correlated events, festivities, and my own personal stories of Eid al-Adha.
 # _What is Eid al-Adha?_
-> Eid al-Adha is one of the most important muslim holidays. It is celebrated on a yearly basis and honors Prophet Ibrahim's strength to obey Allah's command of sacrificing his son Ismail. This was a test from God to see if Prophet Ibrahim trusted him. Due to his willingness to sacrifice his son and obey God's command, Allah replaced Ismail with a sheep and told Prophet Ibrahim to sacrifice the sheep insead. Now, every single year, muslims around the world sacrifice a sheep, cow, goat, or camel during Eid al-Adha and distribute one third of the meat to the poor, immediate family, and friends and extended family. 
+> Eid al-Adha is one of the most _important_ muslim holidays. It is celebrated on a yearly basis and honors Prophet Ibrahim's strength to obey Allah's command of sacrificing his son Ismail. This was a test from God to see if Prophet Ibrahim trusted him. Due to his willingness to sacrifice his son and obey God's command, Allah replaced Ismail with a sheep and told Prophet Ibrahim to sacrifice the sheep insead. Now, every single year, muslims around the world sacrifice a sheep, cow, goat, or camel during Eid al-Adha and distribute one third of the meat to the poor, immediate family, and friends and extended family. 
 ## _What is its purpose?_
 > To honor the devotion and trust Prophet Ibrahim had in Allah and the survival of Prophet Ibrahim's son Ismail.
 ### _What events lead up to Eid al-Adha?_
@@ -14,3 +14,5 @@
 ##### _What are some of my favorite memories of Eid al-Adha?_
 ![Alt text](https://www.timeoutdubai.com/cloud/timeoutdubai/2022/04/26/Screenshot-2022-04-26-121234.jpg "Eid Buffet")
 > Fortunately, I am blessed to have much of my family located in Southern California, so for Eid we all always meet up at my grandma's house. Usually, one uncle orders a jumper for the day and all the aunts cook something for a potluck. Also, each year a different siblings (my mom and her siblings) hosts the Eid party at my gradnma's house. We have a variety of dishes ranging from chicken biryani to ras malai. 
+[id]: https://buildpalestine.com/2021/05/15/trusted-organizations-to-donate-to-palestine/
+    "Link with Donation Resources for Palestine"
