@@ -3,10 +3,8 @@
 a {
   background color: #CC3300;
 }
-
+---
 body {
-  font-family: Comic Sans MS, Comic Sans, cursive;
-  font-size: 25px;
   color: #FFFFFF;
 }
 @import "{{ site.theme }}";
