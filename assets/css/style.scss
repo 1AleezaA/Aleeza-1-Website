@@ -1,4 +1,8 @@
 ---
 ---
-<background style="color #990066"> </background>
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  color: #0000CC;
+}
 @import "{{ site.theme }}";
