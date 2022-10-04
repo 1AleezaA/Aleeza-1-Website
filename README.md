@@ -13,6 +13,6 @@
 > To start the day off, muslims pray their early morning prayer. Then they start getting ready to go to the masjid to pray a special Eid prayer. After that, muslim families go to different gathrings with their friends and family. The way these gatherings function may be different in cuisine due to difference in culture.
 ##### _What are some of my favorite memories of Eid al-Adha?_
 ![Alt text](https://www.timeoutdubai.com/cloud/timeoutdubai/2022/04/26/Screenshot-2022-04-26-121234.jpg "Eid Buffet")
-> Fortunately, I am blessed to have much of my family located in Southern California, so for Eid we all always meet up at my grandma's house. Usually, one uncle orders a jumper for the day and all the aunts cook something for a potluck. Also, each year a different siblings (my mom and her siblings) hosts the Eid party at my gradnma's house. We have a variety of dishes ranging from chicken biryani to ras malai. 
-[id]: https://buildpalestine.com/2021/05/15/trusted-organizations-to-donate-to-palestine/
-    "Link with Donation Resources for Palestine"
+> Fortunately, I am blessed to have much of my family located in Southern California, so for Eid we all always meet up at my grandma’s house. Usually, one uncle orders a jumper for the day and all the aunts cook something for a potluck. Also, each year a different siblings (my mom and her siblings) hosts the Eid party at my gradnma’s house. We have a variety of dishes ranging from chicken biryani to ras malai. 
+
+This is [BuildPalestine](https://buildpalestine.com/2021/05/15/trusted-organizations-to-donate-to-palestine/ "Trusted Organizations to Donate to Palestine") a link with donations resources for Palestine.
