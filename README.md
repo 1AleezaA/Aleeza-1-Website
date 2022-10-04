@@ -18,7 +18,8 @@ Other Important Websites to Check Out:
 1. This is [BuildPalestine](https://buildpalestine.com/2021/05/15/trusted-organizations-to-donate-to-palestine/ "Trusted Organizations to Donate to Palestine") a link with donations resources for Palestine.
 2. This is [Carrd.co](https://savetheuighurs.carrd.co/) a page with resources to learn about the treatment of , donation links, and petition links.
 3. This is [Helping Hands for Relief & Development](https://www1.hhrd.org/) a 501(c)(3) organization with donation links, projects, and different campaigns for several underpriviledged countries. Click on the "Campaign" arrow at the top to see a full list of the campaigns they are holding. 
-Image Sources:
+
+**_Image Sources:_**
 1. [Islamicity](https://www.islamicity.org/11721/ramadan-and-its-benefits/)
 2. [People](https://people.com/human-interest/eid-al-adha-festival-of-sacrifice-everything-to-know/)
 3. [Mashed](https://www.mashed.com/819876/a-feast-of-traditional-foods-marks-the-end-of-ramadan/)
