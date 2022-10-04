@@ -1,7 +1,7 @@
 # Eid al-Adha <strong>
 > By: Aleeza Adnan
 > A website with information on the history, purpose, correlated events, festivities, and my own personal stories of Eid al-Adha.
-# What is Eid al-Adha? <u> <h1 style="color:red">
+# What is Eid al-Adha? <u> <h style="color:red">
 > Eid al-Adha is one of the most important muslim holidays. It is celebrated on a yearly basis and honors Prophet Ibrahim's strength to obey Allah's command of sacrificing his son Ismail. This was a test from God to see if Prophet Ibrahim trusted him. Due to his willingness to sacrifice his son and obey God's command, Allah replaced Ismail with a sheep and told Prophet Ibrahim to sacrifice the sheep insead. Now, every single year, muslims around the world sacrifice a sheep, cow, goat, or camel during Eid al-Adha and distribute one third of the meat to the poor, immediate family, and friends and extended family. 
 ## What is its purpose? <u>
 > To honor the devotion and trust Prophet Ibrahim had in Allah and the survival of Prophet Ibrahim's son Ismail.
