@@ -7,4 +7,5 @@ A website with information on the history, purpose, festivities, and my own pers
 ### What events lead up to Eid al-Adha?
 > Before Eid al Adha, muslims observe a month of fasting during the islamic month of Ramadan, the ninth month of the islamic lunar calendar. On every day in this month, muslims wake up an hour before sunrise to prepare to fast and break that fast when the sunsets. The time for fasting is not the same for everyone as it depends on the sunrise and sunset times of the place a muslim resides in. 
 #### How is Eid al-Adha celebrated?
+![Alt text](https://people.com/thmb/LPXH5pVinEZpE-YCtanmLBxUsfA=/1500x1000/filters:fill(auto,1)/eid-ul-adha-1-28d0089f61164db9926dd010377f6795.jpg "Eid al-Adha Prayer")
 ##### What are some of my favorite memories of Eid al-Adha?
