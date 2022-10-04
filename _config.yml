@@ -1,3 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 title: [An Overview of Eid al-Adha]
-description: [{"By"=>"Aleeza Adnan"}]
+description: [
+  {"By"=>"Aleeza Adnan"}
+  ]
